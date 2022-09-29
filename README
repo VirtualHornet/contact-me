@@ -1,0 +1,5 @@
+This site is a contact page, where you can get email from your clients.
+
+How to use it?
+
+In mail.php file you have to change $recipient valriable to your email address.
